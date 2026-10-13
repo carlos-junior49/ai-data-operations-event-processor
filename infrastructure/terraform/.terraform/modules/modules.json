@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"lambda","Source":"./modules/lambda","Dir":"modules/lambda"},{"Key":"lambda_iam","Source":"./modules/iam","Dir":"modules/iam"}]}

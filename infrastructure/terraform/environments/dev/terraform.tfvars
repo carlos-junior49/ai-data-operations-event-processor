@@ -1,0 +1,6 @@
+aws_region           = "us-east-2"
+raw_bucket_name      = "ai-data-operations-event-processor-raw"
+environment          = "dev"
+kinesis_stream_name  = "ai-data-operations-events"
+function_name        = "ai-data-operations-event-processor"
+lambda_package_patch = "../../build/lambda.zip"
